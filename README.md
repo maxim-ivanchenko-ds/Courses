@@ -1,9 +1,8 @@
 # Courses
 
-<align="left">
+
 ![](https://static.tildacdn.com/tild3761-3062-4635-a636-666363643432/stepik-share-ru.png)
 
-<align="right">
 ![](https://static.tildacdn.com/tild3761-3062-4635-a636-666363643432/stepik-share-ru.png)
 
   
