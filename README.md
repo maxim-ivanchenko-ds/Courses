@@ -1,7 +1,5 @@
 # Courses
 
-# Stepik courses
-
 ![](https://static.tildacdn.com/tild3761-3062-4635-a636-666363643432/stepik-share-ru.png)
 
 <div id="badges" align="center">
