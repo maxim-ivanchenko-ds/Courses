@@ -7,11 +7,6 @@
 <div id="badges" align="center">
 
 [![Stepik](https://img.shields.io/badge/website-Stepik-black)](https://stepik.org/learn) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/QuantumFluxx/Stepik_courses.svg)](https://github.com/QuantumFluxx/Stepik_courses) 
-[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/QuantumFluxx/Stepik_courses.svg)](https://github.com/QuantumFluxx/Stepik_courses) 
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/QuantumFluxx/Stepik_courses.svg)](https://github.com/QuantumFluxx/Stepik_courses)
-![ViewCount](https://views.whatilearened.today/views/github/QuantumFluxx/Stepik_courses.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/QuantumFluxx/Stepik_courses.svg?style=flat)
 
 </div>
 
