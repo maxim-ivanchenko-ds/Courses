@@ -1,7 +1,7 @@
 # Courses
 
 
-![](https://static.tildacdn.com/tild3761-3062-4635-a636-666363643432/stepik-share-ru.png)
+![](https://github.com/maxim-ivanchenko-ds/Courses/blob/main/praktikum.png)
 
 ![](https://static.tildacdn.com/tild3761-3062-4635-a636-666363643432/stepik-share-ru.png)
 
